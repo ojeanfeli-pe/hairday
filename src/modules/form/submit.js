@@ -24,7 +24,7 @@ form.onsubmit = (event) =>{
         }
 
         //Recupera o horário selecionado
-        const hourSelected = document.querySelector("hour-selected")
+        const hourSelected = document.querySelector(".hour-selected")
 
         //Recuperando o horário selecionado
         if(!hourSelected){
