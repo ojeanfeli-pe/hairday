@@ -20,7 +20,7 @@ form.onsubmit = (event) =>{
         const name = clientName.value.trim()
         
         if(!name){
-            return alert("Informe o nome do cliente")
+            return alert("Informe o nome do cliente!")
         }
 
         //Recupera o horário selecionado
@@ -28,7 +28,7 @@ form.onsubmit = (event) =>{
 
         //Recuperando o horário selecionado
         if(!hourSelected){
-        return alert("Selecione a hora")
+            return alert("Selecione a hora")
         }
 
         //Recuoera somente a hora
