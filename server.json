@@ -1,3 +1,9 @@
 {
-    "schedules": []
+  "schedules": [
+    {
+      "id": 1764002770323,
+      "name": "Moreira Jean",
+      "when": "2025-11-24T22:00:00.000Z"
+    }
+  ]
 }
